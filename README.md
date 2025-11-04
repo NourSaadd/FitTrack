@@ -20,7 +20,7 @@ You can preview our application in action here:
 ---
 
 ## Live Demo
-**Link to the deployed application:** https://my-project-pearl-phi-27.vercel.app/
+**Link to the deployed application:** https://fit-track-one-weld.vercel.app/
 
 ---
 
